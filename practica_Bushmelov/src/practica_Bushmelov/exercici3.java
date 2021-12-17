@@ -15,5 +15,9 @@ public class exercici3 {
 		printOne();
 		printOne();
 	}
+	public static void printThree() {
+		System.out.println("Hello World");
+	}
+
 }
 	
